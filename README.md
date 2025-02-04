@@ -24,19 +24,19 @@ Get This Before Making any changes
 
 ## License
 
-Distributed under the Apache-2.0 license License. See ![LICENSE](https://img.shields.io/github/license/TEZZ444/sia-canary?style=social) for more information.
+Distributed under the Apache-2.0 license License. See ![LICENSE](https://img.shields.io/github/license/d3nj1h4x/ARINO?style=social) for more information.
 
 
-<a href="https://github.com/TEZZ444/sia-canary/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=TEZZ444/sia-canary" />
+<a href="https://github.com/d3nj1h4x/ARINO/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=d3nj1h4x/ARINO" />
 </a>
 
 
-[version-shield]: https://img.shields.io/github/package-json/v/TEZZ444/sia-canary?style=for-the-badge
-[contributors-shield]: https://img.shields.io/github/contributors/TEZZ444/sia-canary.svg?style=for-the-badge
-[contributors-url]: https://github.com/TEZZ444/sia-canary/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/TEZZ444/sia-canary.svg?style=for-the-badge
-[forks-url]: https://github.com/TEZZ444/sia-canary/network/members
-[stars-shield]: https://img.shields.io/github/stars/TEZZ444/sia-canary.svg?style=for-the-badge
-[stars-url]: https://github.com/TEZZ444/sia-canary/stargazers
+[version-shield]: https://img.shields.io/github/package-json/v/d3nj1h4x/ARINO?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/d3nj1h4x/ARINO.svg?style=for-the-badge
+[contributors-url]: https://github.com/d3nj1h4x/ARINO/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/d3nj1h4x/ARINO.svg?style=for-the-badge
+[forks-url]: https://github.com/d3nj1h4x/ARINO/network/members
+[stars-shield]: https://img.shields.io/github/stars/d3nj1h4x/ARINO.svg?style=for-the-badge
+[stars-url]: https://github.com/d3nj1h4x/ARINO/stargazers
 
