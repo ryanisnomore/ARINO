@@ -11,7 +11,7 @@ ARINO Is The Best Discord Music Bot That Uses Discord.js Library Kazagumo ( Shou
 
 Join Support Server : https://discord.gg/W2GheK3F9m
 
-[![DiscordBanner](https://invidget.switchblade.xyz/wcqmHgNzDn)](https://discord.gg/W2GheK3F9m)<br />
+[![DiscordBanner]([https://invidget.switchblade.xyz/wcqmHgNzDn](https://cdn.discordapp.com/attachments/1266081851714441267/1336484677199855759/Picsart_25-02-05_05-52-23-511.png))](https://discord.gg/W2GheK3F9m)<br />
 [Support Server](https://discord.gg/W2GheK3F9m) Click Here
 
 
