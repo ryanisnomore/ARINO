@@ -1,7 +1,7 @@
 module.exports = {
   token: {
     ARINO:
-      "MTMyMTU5NTE3NDA1NjM2MjExMQ.GQlb5k.kpn6E6hq8idJi9nDC5c2J5JW2dazfLD0-lZpLw",
+      "",
   },
   tokenTopgg: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjkwNDMxNzE0MTg2NjY0NzU5MiIsImJvdCI6dHJ1ZSwiaWF0IjoxNjczNTI3OTYzfQ.WwA0KXh_nAQcBmR7BPqgLGyElYZheTQmguQfA2F6aNc",
   mongoURL: {
