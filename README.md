@@ -24,16 +24,16 @@ Get This Before Making any changes:
 
 ## License
 
-Distributed under the Apache-2.0 license. See ![LICENSE](https://img.shields.io/github/license/d3nj1h4x/ARINO?style=social) for more information.  
+Distributed under the Apache-2.0 license. See ![LICENSE](https://img.shields.io/github/license/ghryanx7/ARINO?style=social) for more information.  
 
-<a href="https://github.com/d3nj1h4x/ARINO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=d3nj1h4x/ARINO" />
+<a href="https://github.com/ghryanx7/ARINO/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ghryanx7/ARINO" />
 </a>
 
-[version-shield]: https://img.shields.io/github/package-json/v/d3nj1h4x/ARINO?style=for-the-badge  
-[contributors-shield]: https://img.shields.io/github/contributors/d3nj1h4x/ARINO.svg?style=for-the-badge  
-[contributors-url]: https://github.com/d3nj1h4x/ARINO/graphs/contributors  
-[forks-shield]: https://img.shields.io/github/forks/d3nj1h4x/ARINO.svg?style=for-the-badge  
-[forks-url]: https://github.com/d3nj1h4x/ARINO/network/members  
-[stars-shield]: https://img.shields.io/github/stars/d3nj1h4x/ARINO.svg?style=for-the-badge  
-[stars-url]: https://github.com/d3nj1h4x/ARINO/stargazers
+[version-shield]: https://img.shields.io/github/package-json/v/ghryanx7/ARINO?style=for-the-badge  
+[contributors-shield]: https://img.shields.io/github/contributors/ghryanx7/ARINO.svg?style=for-the-badge  
+[contributors-url]: https://github.com/ghryanx7/ARINO/graphs/contributors  
+[forks-shield]: https://img.shields.io/github/forks/ghryanx7/ARINO.svg?style=for-the-badge  
+[forks-url]: https://github.com/ghryanx7/ARINO/network/members  
+[stars-shield]: https://img.shields.io/github/stars/ghryanx7/ARINO.svg?style=for-the-badge  
+[stars-url]: https://github.com/ghryanx7/ARINO/stargazers
