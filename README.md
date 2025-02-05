@@ -12,7 +12,7 @@ Join Support Server: [Click Here](https://discord.gg/W2GheK3F9m)
 
 [![DiscordBanner](https://cdn.discordapp.com/attachments/1266081851714441267/1336484677199855759/Picsart_25-02-05_05-52-23-511.png)](https://discord.gg/W2GheK3F9m)  
 
-### Real-Time Server Stats  
+### Server Stats  
 ![Discord](https://discordshields.com/server/1092123729401745510)  
 
 ## Requirements
