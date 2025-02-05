@@ -3,9 +3,9 @@ module.exports = {
     ARINO:
       "",
   },
-  tokenTopgg: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjkwNDMxNzE0MTg2NjY0NzU5MiIsImJvdCI6dHJ1ZSwiaWF0IjoxNjczNTI3OTYzfQ.WwA0KXh_nAQcBmR7BPqgLGyElYZheTQmguQfA2F6aNc",
+  tokenTopgg: "put_your_topgg_token",
   mongoURL: {
-    RY4N: "mongodb+srv://d3nj1x77:d3nj1x77@d3nj1x77.ljpwl0l.mongodb.net/?retryWrites=true&w=majority",
+    RY4N: "put_your_mongodb",
   },
   clusterMode: "DEVELOPMENT",
   def_prefix: "+",
@@ -33,8 +33,8 @@ module.exports = {
   nodes: [
     {
       name: `A͏R͏I͏N͏O͏`,
-      url: `lavalink_v4.muzykant.xyz:80`,
-      auth: `https://discord.gg/v6sdrD9kPh`,
+      url: `lavalink_v4.ryan.xyz:80`,
+      auth: `discord.gg/W2GheK3F9m`,
       secure: false,
     },
   ],
