@@ -1,7 +1,7 @@
 module.exports = {
   token: {
     ARINO:
-      "",
+      "put_your_bot_token",
   },
   tokenTopgg: "put_your_topgg_token",
   mongoURL: {
