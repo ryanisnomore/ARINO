@@ -30,9 +30,9 @@ module.exports = {
 
       const credentials = [
         {
-          uri: "https://hosting.roverdev.xyz",
-          key: "ptlc_Jz14YrVyZmyazZov9Ki07nEMZ0eE2r0uQChGRnWnWsw",
-          id: "c0da9e69-06e8-4ca0-8e91-a7cacc71faab",
+          uri: "",
+          key: "",
+          id: "",
         },
       ];
 
@@ -50,7 +50,7 @@ module.exports = {
 
             data.push(
               `\`\`\`js\n` +
-                `"Node/Fear-Network Panel Stats" \n\n` +
+                `"Node/ARINO Panel Stats" \n\n` +
                 `[\n` +
                 `  ${details.name} { \n` +
                 `    Node: '${details.node}',\n` +
