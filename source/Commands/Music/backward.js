@@ -1,14 +1,4 @@
-/** 
-
-@code Fucked by manas 
-
-@for support join https://discord.gg/coderz
-
-@this code is licensed give credits to me before using
-
-@enjoy the skidded and chatgpt. Dumped bit code
-
-**/const { EmbedBuilder, ActionRowBuilder, ButtonBuilder } = require("discord.js");
+const { EmbedBuilder, ActionRowBuilder, ButtonBuilder } = require("discord.js");
 module.exports = {
   name: "backward",
   aliases: ["rewind", "bw"],
