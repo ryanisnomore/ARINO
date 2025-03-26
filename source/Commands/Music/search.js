@@ -10,7 +10,7 @@ const { getLyrics } = require("genius-lyrics-api");
 const SpotiPro = require("spoti-pro");
 const axios = require("axios");
 
-const api = "XQBi-Wyb2XsdU0ajdnBnzhpQHK5G0lc9dbeTpc7Zql8v9zvYBCaFavT-66M42oZN";
+const api = "put-your-one";
 const spotify = new SpotiPro(
   "83c98500a89a4a5eae6fa819643644b8",
   "b2627d1bf6c846d98e102fe58e656892",
