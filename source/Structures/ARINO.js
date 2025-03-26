@@ -23,7 +23,6 @@ const BotUtils = require("./Utils");
 const GuildSchema = require("../Models/Guild");
 const Topgg = require("@top-gg/sdk");
 const Playlist = require("../Models/Playlist");
-const { convertTime } = require("../Structures/Convert");
 const lodash = require("lodash");
 
 const Intents = [
@@ -278,10 +277,4 @@ module.exports = class AvonClient extends Client {
       console.error("Error during Arino Build:", error);
     }
   }
-
-  // Playlist management methods
-  async createPlaylist(message, args) { /* Code implementation */ }
-  async loadPlaylist(message, args) { /* Code implementation */ }
-  async listPlaylists(message) { /* Code implementation */ }
-  async deletePlaylist(message, args) { /* Code implementation */ }
 };
