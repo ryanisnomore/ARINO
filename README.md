@@ -1,5 +1,5 @@
 # ARINO
-ARINO Is The Best Discord Music Bot That Uses Discord.js Library Kazagumo ( Shoukaku ) Database (MongoDB) And ES Module Javascript
+ARINO Is The Best Discord Music Bot That Uses Discord.js Library Kazagumo ( Shoukaku ) Database (MongoDB) And CommomJs Module Javascript
 
 [![Version][version-shield]](version-url)  
 [![Stargazers][stars-shield]][stars-url]  
