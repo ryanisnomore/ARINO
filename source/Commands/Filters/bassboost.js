@@ -1,12 +1,3 @@
-/** 
-
-@code Fucked by manas 
-@for support join https://discord.gg/coderz
-@this code is licensed give credits to me before using
-@enjoy the skidded and chatgpt. Dumped bit code
-
-**/
-
 const { EmbedBuilder } = require("discord.js");
 const ctx = async (
   channel,
