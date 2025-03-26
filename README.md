@@ -1,4 +1,8 @@
-# ARINO
+<a href = "https://discord.gg/W2GheK3F9m">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&animation=blink&height=150&reversal=tru&width=100&theme=gruvbox&section=header&text=ARINO&fontColor=15f8ef&fontSize=75&fontAlignY=39" />
+</a>
+
+
 ARINO Is The Best Discord Music Bot That Uses Discord.js Library Kazagumo ( Shoukaku ) Database (MongoDB) And CommomJs Module Javascript
 
 [![Version][version-shield]](version-url)  
