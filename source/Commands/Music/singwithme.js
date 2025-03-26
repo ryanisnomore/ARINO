@@ -21,7 +21,7 @@ class LyricsSynchronizer {
           params: {
             q_track: track.title,
             q_artist: track.author,
-            apikey: "771d5d35b79464903df01f5f7f7fdc19",
+            apikey: "",
           },
         }
       );
