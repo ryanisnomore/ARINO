@@ -18,13 +18,6 @@ Join Support Server: [Click Here](https://discord.gg/W2GheK3F9m)
 
 
 
-## Requirements
-
-Get This Before Making any changes:
-
-- Node.js [v18.16.1 or higher](https://nodejs.org/en/download/)  
-- MongoDB [v4.4.0 or higher](https://www.mongodb.com/try/download/community)  
-
 ## License
 
 Distributed under the Apache-2.0 license. See ![LICENSE](https://img.shields.io/github/license/ghryanx7/ARINO?style=social) for more information.  
