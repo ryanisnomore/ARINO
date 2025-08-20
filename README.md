@@ -133,7 +133,7 @@ Search & History • FavList
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ghryanx7/ARINO.git
+   git clone https://github.com/ryanisnomore/ARINO.git
    cd ARINO
    ```
 
@@ -161,7 +161,7 @@ Search & History • FavList
 ### Configuration
 
 <details>
-<summary><b>📝 src/config.ts Configuration</b></summary>
+<summary><b> src/config.ts Configuration</b></summary>
 
 ```typescript
 export default {
@@ -220,8 +220,8 @@ export default {
 
 **Live Bot Stats** *(Updated every 5 minutes)*
 
-![Servers](https://img.shields.io/badge/Servers-12+-success?style=for-the-badge)
-![Users](https://img.shields.io/badge/Users-500+-blue?style=for-the-badge)
+![Servers](https://img.shields.io/badge/Servers-200+-success?style=for-the-badge)
+![Users](https://img.shields.io/badge/Users-50000+-blue?style=for-the-badge)
 ![Uptime](https://img.shields.io/badge/Uptime-99.9%25-brightgreen?style=for-the-badge)
 ![Commands](https://img.shields.io/badge/Commands-63+-orange?style=for-the-badge)
 
@@ -243,14 +243,6 @@ export default {
 
 </div>
 
-## Roadmap
-
-- [ ] **Web Dashboard** - Full bot management interface
-- [ ] **Playlist Sync** - Cross-platform playlist importing
-- [ ] **Voice Effects** - Real-time voice modulation
-- [ ] **AI Integration** - Smart music recommendations
-- [ ] **Custom Plugins** - Extensible plugin system
-
 ## License
 
 This project is licensed under the **GPL-3.0 License** - see the [LICENSE](LICENSE) file for details.
@@ -263,8 +255,8 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## Contributors
 
-<a href="https://github.com/ghryanx7/ARINO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ghryanx7/ARINO" />
+<a href="https://github.com/ryanisnomore/ARINO/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ryanisnomore/ARINO" />
 </a>
 
 ---
@@ -277,18 +269,15 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=ARINO&fontSize=40&fontColor=FFFFFF&animation=twinkling"/>
-
-</div>
 
 <!-- Shield Links -->
-[version-shield]: https://img.shields.io/github/package-json/v/ghryanx7/ARINO?style=for-the-badge&color=00D9FF
-[version-url]: https://github.com/ghryanx7/ARINO/releases
-[contributors-shield]: https://img.shields.io/github/contributors/ghryanx7/ARINO.svg?style=for-the-badge&color=00D9FF
-[contributors-url]: https://github.com/ghryanx7/ARINO/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ghryanx7/ARINO.svg?style=for-the-badge&color=00D9FF
-[forks-url]: https://github.com/ghryanx7/ARINO/network/members
-[stars-shield]: https://img.shields.io/github/stars/ghryanx7/ARINO.svg?style=for-the-badge&color=00D9FF
-[stars-url]: https://github.com/ghryanx7/ARINO/stargazers
-[license-shield]: https://img.shields.io/github/license/ghryanx7/ARINO?style=for-the-badge&color=00D9FF
-[license-url]: https://github.com/ghryanx7/ARINO/blob/main/LICENSE
+[version-shield]: https://img.shields.io/github/package-json/v/ryanisnomore/ARINO?style=for-the-badge&color=00D9FF
+[version-url]: https://github.com/ryanisnomore/ARINO/releases
+[contributors-shield]: https://img.shields.io/github/contributors/ryanisnomore/ARINO.svg?style=for-the-badge&color=00D9FF
+[contributors-url]: https://github.com/ryanisnomore/ARINO/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ryanisnomore/ARINO.svg?style=for-the-badge&color=00D9FF
+[forks-url]: https://github.com/ryanisnomore/ARINO/network/members
+[stars-shield]: https://img.shields.io/github/stars/ryanisnomore/ARINO.svg?style=for-the-badge&color=00D9FF
+[stars-url]: https://github.com/ryanisnomore/ARINO/stargazers
+[license-shield]: https://img.shields.io/github/license/ryanisnomore/ARINO?style=for-the-badge&color=00D9FF
+[license-url]: https://github.com/ryanisnomore/ARINO/blob/main/LICENSE
