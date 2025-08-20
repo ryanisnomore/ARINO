@@ -5,7 +5,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&animation=blink&height=150&reversal=true&width=100&theme=gruvbox&section=header&text=ARINO&fontColor=15f8ef&fontSize=75&fontAlignY=39" />
 </a>
 
-# ARINO
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2px; border-radius: 15px; margin: 20px 0;">
   <div style="background: #0d1117; padding: 20px; border-radius: 13px;">
