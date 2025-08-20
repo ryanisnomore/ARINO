@@ -52,7 +52,7 @@ Pitch Control • Speed Control
 <tr>
 <td align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 20px; border-radius: 15px; border: 2px solid rgba(0,217,255,0.3); box-shadow: 0 8px 16px rgba(0,217,255,0.1);">
 
-** High Performance**
+**High Performance**
 <div style="margin: 15px 0;">
 Discord.js Sharding • Redis Caching<br/>
 Lavalink Integration • SQLite/Prisma<br/>
