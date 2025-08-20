@@ -239,9 +239,6 @@ export default {
 
 </div>
 
-[![Discord Banner](https://cdn.discordapp.com/attachments/1266081851714441267/1336484677199855759/Picsart_25-02-05_05-52-23-511.png)](https://discord.gg/W2GheK3F9m)
-
-</div>
 
 ## License
 
